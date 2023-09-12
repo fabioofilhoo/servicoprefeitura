@@ -17,7 +17,7 @@
 
 }
 .roxo{
-    color: rgb(57, 3, 0);
+    color: rgb(83, 4, 63);
     font-family: Arial;
     font-size: larger;
 
@@ -31,6 +31,8 @@
     color: black;
     font-family: Arial;
     font-size: larger;
-    font-style: inherit
-
+    font: bold;
+}
+.fundo{
+    background-color: rgb(229, 249, 150);
 }
