@@ -1,0 +1,29 @@
+.vermelho{
+    color: red;
+    font-family: Arial;
+    font-size: larger;
+
+}
+.azul{
+    color: blue;
+    font-family: Arial;
+    font-size: larger;
+
+}
+.verde{
+    color: green;
+    font-family: Arial;
+    font-size: larger;
+
+}
+.roxo{
+    color: violet;
+    font-family: Arial;
+    font-size: larger;
+
+}
+.titulo{
+    font-size: 50px;
+    font-style: bold;
+    
+}
