@@ -32,6 +32,7 @@
     font-family: Arial;
     font-size: larger;
     font: bold;
+    line-height: 20px;
 }
 .fundo{
     background-color: rgb(229, 249, 150);
